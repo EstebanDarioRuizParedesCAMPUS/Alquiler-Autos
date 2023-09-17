@@ -1,0 +1,502 @@
+[
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bd2"
+    },
+    "Cliente": {
+      "Nombre": "Luis",
+      "Apellido": "González",
+      "Telefono": "+573001234567",
+      "Email": "luis@example.com"
+    },
+    "Automovil": {
+      "Marca": "Chevrolet",
+      "Modelo": "Spark GT",
+      "Anio": 2015,
+      "Tipo": "Compacto"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-10T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-15T00:00:00.000Z"
+    },
+    "CostoTotal": 229.95,
+    "Estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bd3"
+    },
+    "Cliente": {
+      "Nombre": "Ana",
+      "Apellido": "Martínez",
+      "Telefono": "+573102345678",
+      "Email": "ana@example.com"
+    },
+    "Automovil": {
+      "Marca": "Ford",
+      "Modelo": "Mustang",
+      "Anio": 2020,
+      "Tipo": "Deportivo"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-12T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-17T00:00:00.000Z"
+    },
+    "CostoTotal": 499.95,
+    "Estado": false
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bd4"
+    },
+    "Cliente": {
+      "Nombre": "Carlos",
+      "Apellido": "López",
+      "Telefono": "+573203456789",
+      "Email": "carlos@example.com"
+    },
+    "Automovil": {
+      "Marca": "Toyota",
+      "Modelo": "Camry",
+      "Anio": 2019,
+      "Tipo": "Sedán"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-14T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-19T00:00:00.000Z"
+    },
+    "CostoTotal": 327.5,
+    "Estado": false
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bd5"
+    },
+    "Cliente": {
+      "Nombre": "María",
+      "Apellido": "Rodríguez",
+      "Telefono": "+573304567890",
+      "Email": "maria@example.com"
+    },
+    "Automovil": {
+      "Marca": "Honda",
+      "Modelo": "Civic",
+      "Anio": 2021,
+      "Tipo": "Sedán"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-16T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-21T00:00:00.000Z"
+    },
+    "CostoTotal": 298.75,
+    "Estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bd6"
+    },
+    "Cliente": {
+      "Nombre": "Luisa",
+      "Apellido": "Pérez",
+      "Telefono": "+573405678901",
+      "Email": "luisa@example.com"
+    },
+    "Automovil": {
+      "Marca": "Volkswagen",
+      "Modelo": "Golf",
+      "Anio": 2018,
+      "Tipo": "Compacto"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-18T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-23T00:00:00.000Z"
+    },
+    "CostoTotal": 246.25,
+    "Estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bd7"
+    },
+    "Cliente": {
+      "Nombre": "Javier",
+      "Apellido": "Ramírez",
+      "Telefono": "+573506789012",
+      "Email": "javier@example.com"
+    },
+    "Automovil": {
+      "Marca": "Jeep",
+      "Modelo": "Wrangler",
+      "Anio": 2022,
+      "Tipo": "SUV"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-20T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-26T00:00:00.000Z"
+    },
+    "CostoTotal": 559.93,
+    "Estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bd8"
+    },
+    "Cliente": {
+      "Nombre": "Lucía",
+      "Apellido": "Gómez",
+      "Telefono": "+573607890123",
+      "Email": "lucia@example.com"
+    },
+    "Automovil": {
+      "Marca": "Nissan",
+      "Modelo": "Altima",
+      "Anio": 2020,
+      "Tipo": "Sedán"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-22T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-27T00:00:00.000Z"
+    },
+    "CostoTotal": 310,
+    "Estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bd9"
+    },
+    "Cliente": {
+      "Nombre": "Diego",
+      "Apellido": "Fernández",
+      "Telefono": "+573708901234",
+      "Email": "diego@example.com"
+    },
+    "Automovil": {
+      "Marca": "Mazda",
+      "Modelo": "CX-5",
+      "Anio": 2019,
+      "Tipo": "SUV"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-24T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-29T00:00:00.000Z"
+    },
+    "CostoTotal": 349.5,
+    "Estado": false
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bda"
+    },
+    "Cliente": {
+      "Nombre": "Sofía",
+      "Apellido": "López",
+      "Telefono": "+573809012345",
+      "Email": "sofia@example.com"
+    },
+    "Automovil": {
+      "Marca": "Kia",
+      "Modelo": "Sportage",
+      "Anio": 2021,
+      "Tipo": "SUV"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-26T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-10-01T00:00:00.000Z"
+    },
+    "CostoTotal": 429,
+    "Estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bdb"
+    },
+    "Cliente": {
+      "Nombre": "Marta",
+      "Apellido": "García",
+      "Telefono": "+573909876543",
+      "Email": "marta@example.com"
+    },
+    "Automovil": {
+      "Marca": "Hyundai",
+      "Modelo": "Elantra",
+      "Anio": 2017,
+      "Tipo": "Sedán"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-28T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-10-03T00:00:00.000Z"
+    },
+    "CostoTotal": 276.25,
+    "Estado": false
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bdc"
+    },
+    "Cliente": {
+      "Nombre": "Luis",
+      "Apellido": "González",
+      "Telefono": "+573001234567",
+      "Email": "luis@example.com"
+    },
+    "Automovil": {
+      "Marca": "Chevrolet",
+      "Modelo": "Spark GT",
+      "Anio": 2015,
+      "Tipo": "Compacto"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-10T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-15T00:00:00.000Z"
+    },
+    "CostoTotal": 229.95,
+    "Estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bdd"
+    },
+    "Cliente": {
+      "Nombre": "Ana",
+      "Apellido": "Martínez",
+      "Telefono": "+573102345678",
+      "Email": "ana@example.com"
+    },
+    "Automovil": {
+      "Marca": "Ford",
+      "Modelo": "Mustang",
+      "Anio": 2020,
+      "Tipo": "Deportivo"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-12T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-17T00:00:00.000Z"
+    },
+    "CostoTotal": 499.95,
+    "Estado": false
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bde"
+    },
+    "Cliente": {
+      "Nombre": "Carlos",
+      "Apellido": "López",
+      "Telefono": "+573203456789",
+      "Email": "carlos@example.com"
+    },
+    "Automovil": {
+      "Marca": "Toyota",
+      "Modelo": "Camry",
+      "Anio": 2019,
+      "Tipo": "Sedán"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-14T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-19T00:00:00.000Z"
+    },
+    "CostoTotal": 327.5,
+    "Estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40bdf"
+    },
+    "Cliente": {
+      "Nombre": "María",
+      "Apellido": "Rodríguez",
+      "Telefono": "+573304567890",
+      "Email": "maria@example.com"
+    },
+    "Automovil": {
+      "Marca": "Honda",
+      "Modelo": "Civic",
+      "Anio": 2021,
+      "Tipo": "Sedán"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-16T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-21T00:00:00.000Z"
+    },
+    "CostoTotal": 298.75,
+    "Estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40be0"
+    },
+    "Cliente": {
+      "Nombre": "Luisa",
+      "Apellido": "Pérez",
+      "Telefono": "+573405678901",
+      "Email": "luisa@example.com"
+    },
+    "Automovil": {
+      "Marca": "Volkswagen",
+      "Modelo": "Golf",
+      "Anio": 2018,
+      "Tipo": "Compacto"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-18T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-23T00:00:00.000Z"
+    },
+    "CostoTotal": 246.25,
+    "Estado": false
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40be1"
+    },
+    "Cliente": {
+      "Nombre": "Javier",
+      "Apellido": "Ramírez",
+      "Telefono": "+573506789012",
+      "Email": "javier@example.com"
+    },
+    "Automovil": {
+      "Marca": "Jeep",
+      "Modelo": "Wrangler",
+      "Anio": 2022,
+      "Tipo": "SUV"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-20T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-26T00:00:00.000Z"
+    },
+    "CostoTotal": 559.93,
+    "Estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40be2"
+    },
+    "Cliente": {
+      "Nombre": "Lucía",
+      "Apellido": "Gómez",
+      "Telefono": "+573607890123",
+      "Email": "lucia@example.com"
+    },
+    "Automovil": {
+      "Marca": "Nissan",
+      "Modelo": "Altima",
+      "Anio": 2020,
+      "Tipo": "Sedán"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-22T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-27T00:00:00.000Z"
+    },
+    "CostoTotal": 310,
+    "Estado": true
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40be3"
+    },
+    "Cliente": {
+      "Nombre": "Diego",
+      "Apellido": "Fernández",
+      "Telefono": "+573708901234",
+      "Email": "diego@example.com"
+    },
+    "Automovil": {
+      "Marca": "Mazda",
+      "Modelo": "CX-5",
+      "Anio": 2019,
+      "Tipo": "SUV"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-24T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-09-29T00:00:00.000Z"
+    },
+    "CostoTotal": 349.5,
+    "Estado": false
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40be4"
+    },
+    "Cliente": {
+      "Nombre": "Sofía",
+      "Apellido": "López",
+      "Telefono": "+573809012345",
+      "Email": "sofia@example.com"
+    },
+    "Automovil": {
+      "Marca": "Kia",
+      "Modelo": "Sportage",
+      "Anio": 2021,
+      "Tipo": "SUV"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-26T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-10-01T00:00:00.000Z"
+    },
+    "CostoTotal": 429.5,
+    "Estado": false
+  },
+  {
+    "_id": {
+      "$oid": "6507549cedc519034cd40be5"
+    },
+    "Cliente": {
+      "Nombre": "Marta",
+      "Apellido": "García",
+      "Telefono": "+573909876543",
+      "Email": "marta@example.com"
+    },
+    "Automovil": {
+      "Marca": "Hyundai",
+      "Modelo": "Elantra",
+      "Anio": 2017,
+      "Tipo": "Sedán"
+    },
+    "FechaInicio": {
+      "$date": "2023-09-28T00:00:00.000Z"
+    },
+    "FechaFin": {
+      "$date": "2023-10-03T00:00:00.000Z"
+    },
+    "CostoTotal": 276.25,
+    "Estado": false
+  }
+]

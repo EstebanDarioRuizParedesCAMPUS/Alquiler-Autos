@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "65073373edc519034cd40b84"
+    },
+    "id_Empleado": 0,
+    "Nombre": "Juan",
+    "Apellido": "González",
+    "DNI": 123456789,
+    "Direccion": "Calle 123, Ciudad A",
+    "Telefono": "+573001234567",
+    "Cargo": "Vendedor"
+  },
+  {
+    "_id": {
+      "$oid": "65073373edc519034cd40b85"
+    },
+    "id_Empleado": 1,
+    "Nombre": "Ana",
+    "Apellido": "Martínez",
+    "DNI": 234567890,
+    "Direccion": "Avenida 456, Ciudad B",
+    "Telefono": "+573102345678",
+    "Cargo": "Vendedor"
+  },
+  {
+    "_id": {
+      "$oid": "65073373edc519034cd40b86"
+    },
+    "id_Empleado": 2,
+    "Nombre": "Pedro",
+    "Apellido": "López",
+    "DNI": 345678901,
+    "Direccion": "Carrera 789, Ciudad C",
+    "Telefono": "+573203456789",
+    "Cargo": "Vendedor"
+  },
+  {
+    "_id": {
+      "$oid": "65073373edc519034cd40b87"
+    },
+    "id_Empleado": 3,
+    "Nombre": "María",
+    "Apellido": "Rodríguez",
+    "DNI": 456789012,
+    "Direccion": "Calle 1011, Ciudad D",
+    "Telefono": "+573304567890",
+    "Cargo": "Vendedor"
+  },
+  {
+    "_id": {
+      "$oid": "65073373edc519034cd40b88"
+    },
+    "id_Empleado": 4,
+    "Nombre": "Luis",
+    "Apellido": "Pérez",
+    "DNI": 567890123,
+    "Direccion": "Avenida 1213, Ciudad E",
+    "Telefono": "+573405678901",
+    "Cargo": "Vendedor"
+  },
+  {
+    "_id": {
+      "$oid": "65073373edc519034cd40b89"
+    },
+    "id_Empleado": 5,
+    "Nombre": "Carla",
+    "Apellido": "Sánchez",
+    "DNI": 678901234,
+    "Direccion": "Calle 567, Ciudad F",
+    "Telefono": "+573506789012",
+    "Cargo": "Gerente"
+  },
+  {
+    "_id": {
+      "$oid": "65073373edc519034cd40b8a"
+    },
+    "id_Empleado": 6,
+    "Nombre": "Javier",
+    "Apellido": "Ramírez",
+    "DNI": 789012345,
+    "Direccion": "Avenida 891, Ciudad G",
+    "Telefono": "+573607890123",
+    "Cargo": "Gerente"
+  },
+  {
+    "_id": {
+      "$oid": "65073373edc519034cd40b8b"
+    },
+    "id_Empleado": 7,
+    "Nombre": "Lucía",
+    "Apellido": "Gómez",
+    "DNI": 890123456,
+    "Direccion": "Carrera 234, Ciudad H",
+    "Telefono": "+573708901234",
+    "Cargo": "Gerente"
+  },
+  {
+    "_id": {
+      "$oid": "65073373edc519034cd40b8c"
+    },
+    "id_Empleado": 8,
+    "Nombre": "Diego",
+    "Apellido": "Fernández",
+    "DNI": 901234567,
+    "Direccion": "Calle 567, Ciudad I",
+    "Telefono": "+573809012345",
+    "Cargo": "Gerente"
+  },
+  {
+    "_id": {
+      "$oid": "65073373edc519034cd40b8d"
+    },
+    "id_Empleado": 9,
+    "Nombre": "Sofía",
+    "Apellido": "López",
+    "DNI": 123450987,
+    "Direccion": "Avenida 890, Ciudad J",
+    "Telefono": "+573909876543",
+    "Cargo": "Gerente"
+  }
+]

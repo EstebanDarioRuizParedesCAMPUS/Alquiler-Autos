@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "6507313cedc519034cd40b71"
+    },
+    "id_Automovil": 0,
+    "Marca": "Chevrolet",
+    "Modelo": "Spark GT",
+    "Anio": 2015,
+    "Tipo": "Compacto",
+    "capacidad": 5,
+    "Precio_diario": 45.99
+  },
+  {
+    "_id": {
+      "$oid": "6507313cedc519034cd40b72"
+    },
+    "id_Automovil": 1,
+    "Marca": "Ford",
+    "Modelo": "Mustang",
+    "Anio": 2020,
+    "Tipo": "Deportivo",
+    "capacidad": 4,
+    "Precio_diario": 99.99
+  },
+  {
+    "_id": {
+      "$oid": "6507313cedc519034cd40b73"
+    },
+    "id_Automovil": 2,
+    "Marca": "Toyota",
+    "Modelo": "Camry",
+    "Anio": 2019,
+    "Tipo": "Sedán",
+    "capacidad": 5,
+    "Precio_diario": 65.5
+  },
+  {
+    "_id": {
+      "$oid": "6507313cedc519034cd40b74"
+    },
+    "id_Automovil": 3,
+    "Marca": "Honda",
+    "Modelo": "Civic",
+    "Anio": 2021,
+    "Tipo": "Sedán",
+    "capacidad": 5,
+    "Precio_diario": 59.75
+  },
+  {
+    "_id": {
+      "$oid": "6507313cedc519034cd40b75"
+    },
+    "id_Automovil": 4,
+    "Marca": "Volkswagen",
+    "Modelo": "Golf",
+    "Anio": 2018,
+    "Tipo": "Compacto",
+    "capacidad": 5,
+    "Precio_diario": 49.25
+  },
+  {
+    "_id": {
+      "$oid": "6507313cedc519034cd40b76"
+    },
+    "id_Automovil": 5,
+    "Marca": "Jeep",
+    "Modelo": "Wrangler",
+    "Anio": 2022,
+    "Tipo": "SUV",
+    "capacidad": 4,
+    "Precio_diario": 79.99
+  },
+  {
+    "_id": {
+      "$oid": "6507313cedc519034cd40b77"
+    },
+    "id_Automovil": 6,
+    "Marca": "Nissan",
+    "Modelo": "Altima",
+    "Anio": 2020,
+    "Tipo": "Sedán",
+    "capacidad": 5,
+    "Precio_diario": 62
+  },
+  {
+    "_id": {
+      "$oid": "6507313cedc519034cd40b78"
+    },
+    "id_Automovil": 7,
+    "Marca": "Mazda",
+    "Modelo": "CX-5",
+    "Anio": 2019,
+    "Tipo": "SUV",
+    "capacidad": 5,
+    "Precio_diario": 69.75
+  },
+  {
+    "_id": {
+      "$oid": "6507313cedc519034cd40b79"
+    },
+    "id_Automovil": 8,
+    "Marca": "Kia",
+    "Modelo": "Sportage",
+    "Anio": 2021,
+    "Tipo": "SUV",
+    "capacidad": 5,
+    "Precio_diario": 71.5
+  },
+  {
+    "_id": {
+      "$oid": "6507313cedc519034cd40b7a"
+    },
+    "id_Automovil": 9,
+    "Marca": "Hyundai",
+    "Modelo": "Elantra",
+    "Anio": 2017,
+    "Tipo": "Sedán",
+    "capacidad": 5,
+    "Precio_diario": 55.25
+  }
+]

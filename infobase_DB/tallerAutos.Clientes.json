@@ -1,0 +1,138 @@
+[
+  {
+    "_id": {
+      "$oid": "6507343bedc519034cd40b90"
+    },
+    "id_Cliente": 0,
+    "Nombre": "Luis",
+    "Apellido": "González",
+    "DNI": 1234567890,
+    "Direccion": "Calle 123, Ciudad A",
+    "Telefono": "+573001234567",
+    "Email": "luis@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6507343bedc519034cd40b91"
+    },
+    "id_Cliente": 1,
+    "Nombre": "Ana",
+    "Apellido": "Martínez",
+    "DNI": {
+      "$numberLong": "2345678901"
+    },
+    "Direccion": "Avenida 456, Ciudad B",
+    "Telefono": "+573102345678",
+    "Email": "ana@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6507343bedc519034cd40b92"
+    },
+    "id_Cliente": 2,
+    "Nombre": "Carlos",
+    "Apellido": "López",
+    "DNI": {
+      "$numberLong": "3456789012"
+    },
+    "Direccion": "Carrera 789, Ciudad C",
+    "Telefono": "+573203456789",
+    "Email": "carlos@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6507343bedc519034cd40b93"
+    },
+    "id_Cliente": 3,
+    "Nombre": "María",
+    "Apellido": "Rodríguez",
+    "DNI": {
+      "$numberLong": "4567890123"
+    },
+    "Direccion": "Calle 1011, Ciudad D",
+    "Telefono": "+573304567890",
+    "Email": "maria@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6507343bedc519034cd40b94"
+    },
+    "id_Cliente": 4,
+    "Nombre": "Luisa",
+    "Apellido": "Pérez",
+    "DNI": {
+      "$numberLong": "5678901234"
+    },
+    "Direccion": "Avenida 1213, Ciudad E",
+    "Telefono": "+573405678901",
+    "Email": "luisa@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6507343bedc519034cd40b95"
+    },
+    "id_Cliente": 5,
+    "Nombre": "Javier",
+    "Apellido": "Ramírez",
+    "DNI": {
+      "$numberLong": "6789012345"
+    },
+    "Direccion": "Calle 567, Ciudad F",
+    "Telefono": "+573506789012",
+    "Email": "javier@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6507343bedc519034cd40b96"
+    },
+    "id_Cliente": 6,
+    "Nombre": "Lucía",
+    "Apellido": "Gómez",
+    "DNI": {
+      "$numberLong": "7890123456"
+    },
+    "Direccion": "Avenida 891, Ciudad G",
+    "Telefono": "+573607890123",
+    "Email": "lucia@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6507343bedc519034cd40b97"
+    },
+    "id_Cliente": 7,
+    "Nombre": "Diego",
+    "Apellido": "Fernández",
+    "DNI": {
+      "$numberLong": "8901234567"
+    },
+    "Direccion": "Carrera 234, Ciudad H",
+    "Telefono": "+573708901234",
+    "Email": "diego@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6507343bedc519034cd40b98"
+    },
+    "id_Cliente": 8,
+    "Nombre": "Sofía",
+    "Apellido": "López",
+    "DNI": {
+      "$numberLong": "9012345678"
+    },
+    "Direccion": "Calle 567, Ciudad I",
+    "Telefono": "+573809012345",
+    "Email": "sofia@example.com"
+  },
+  {
+    "_id": {
+      "$oid": "6507343bedc519034cd40b99"
+    },
+    "id_Cliente": 9,
+    "Nombre": "Marta",
+    "Apellido": "García",
+    "DNI": 1234509876,
+    "Direccion": "Avenida 890, Ciudad J",
+    "Telefono": "+573909876543",
+    "Email": "marta@example.com"
+  }
+]

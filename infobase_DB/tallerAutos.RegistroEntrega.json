@@ -1,0 +1,640 @@
+[{
+  "_id": {
+    "$oid": "65076b0aedc519034cd40bff"
+  },
+  "IdRegistro": 1,
+  "Empleado": {
+    "Nombre": "Juan",
+    "Apellido": "González",
+    "Telefono": "+573001234567",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Luis",
+      "Apellido": "González",
+      "Telefono": "+573001234567",
+      "Email": "luis@example.com"
+    },
+    "Automovil": {
+      "Marca": "Chevrolet",
+      "Modelo": "Spark GT",
+      "Anio": 2015,
+      "Tipo": "Compacto"
+    },
+    "CostoTotal": 229.95
+  },
+  "FechaEntrega": {
+    "$date": "2023-09-10T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 15000,
+  "CombustibleEntregado": 35.5
+},
+{
+  "_id": {
+    "$oid": "65076b0aedc519034cd40c00"
+  },
+  "IdRegistro": 2,
+  "Empleado": {
+    "Nombre": "Ana",
+    "Apellido": "Martínez",
+    "Telefono": "+573102345678",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Carlos",
+      "Apellido": "López",
+      "Telefono": "+573203456789",
+      "Email": "carlos@example.com"
+    },
+    "Automovil": {
+      "Marca": "Toyota",
+      "Modelo": "Camry",
+      "Anio": 2019,
+      "Tipo": "Sedán"
+    },
+    "CostoTotal": 327.5
+  },
+  "FechaEntrega": {
+    "$date": "2023-09-14T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 18000,
+  "CombustibleEntregado": 40.25
+},
+{
+  "_id": {
+    "$oid": "65076b0aedc519034cd40c01"
+  },
+  "IdRegistro": 3,
+  "Empleado": {
+    "Nombre": "Pedro",
+    "Apellido": "López",
+    "Telefono": "+573203456789",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "María",
+      "Apellido": "Rodríguez",
+      "Telefono": "+573304567890",
+      "Email": "maria@example.com"
+    },
+    "Automovil": {
+      "Marca": "Honda",
+      "Modelo": "Civic",
+      "Anio": 2021,
+      "Tipo": "Sedán"
+    },
+    "CostoTotal": 298.75
+  },
+  "FechaEntrega": {
+    "$date": "2023-09-16T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 16000,
+  "CombustibleEntregado": 38.75
+},
+{
+  "_id": {
+    "$oid": "65076b0aedc519034cd40c02"
+  },
+  "IdRegistro": 4,
+  "Empleado": {
+    "Nombre": "María",
+    "Apellido": "Rodríguez",
+    "Telefono": "+573304567890",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Luisa",
+      "Apellido": "Pérez",
+      "Telefono": "+573405678901",
+      "Email": "luisa@example.com"
+    },
+    "Automovil": {
+      "Marca": "Volkswagen",
+      "Modelo": "Golf",
+      "Anio": 2018,
+      "Tipo": "Compacto"
+    },
+    "CostoTotal": 246.25
+  },
+  "FechaEntrega": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 19000,
+  "CombustibleEntregado": 43
+},
+{
+  "_id": {
+    "$oid": "65076b0aedc519034cd40c03"
+  },
+  "IdRegistro": 5,
+  "Empleado": {
+    "Nombre": "Luis",
+    "Apellido": "Pérez",
+    "Telefono": "+573405678901",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Javier",
+      "Apellido": "Ramírez",
+      "Telefono": "+573506789012",
+      "Email": "javier@example.com"
+    },
+    "Automovil": {
+      "Marca": "Jeep",
+      "Modelo": "Wrangler",
+      "Anio": 2022,
+      "Tipo": "SUV"
+    },
+    "CostoTotal": 559.93
+  },
+  "FechaEntrega": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 20000,
+  "CombustibleEntregado": 45
+},
+{
+  "_id": {
+    "$oid": "65076b0aedc519034cd40c04"
+  },
+  "IdRegistro": 6,
+  "Empleado": {
+    "Nombre": "Carla",
+    "Apellido": "Sánchez",
+    "Telefono": "+573506789012",
+    "Cargo": "Gerente"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Lucía",
+      "Apellido": "Gómez",
+      "Telefono": "+573607890123",
+      "Email": "lucia@example.com"
+    },
+    "Automovil": {
+      "Marca": "Nissan",
+      "Modelo": "Altima",
+      "Anio": 2020,
+      "Tipo": "Sedán"
+    },
+    "CostoTotal": 310
+  },
+  "FechaEntrega": {
+    "$date": "2023-09-22T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 20000,
+  "CombustibleEntregado": 45
+},
+{
+  "_id": {
+    "$oid": "65076b0aedc519034cd40c05"
+  },
+  "IdRegistro": 7,
+  "Empleado": {
+    "Nombre": "Lucía",
+    "Apellido": "Gómez",
+    "Telefono": "+573607890123",
+    "Cargo": "Gerente"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Diego",
+      "Apellido": "Fernández",
+      "Telefono": "+573708901234",
+      "Email": "diego@example.com"
+    },
+    "Automovil": {
+      "Marca": "Mazda",
+      "Modelo": "CX-5",
+      "Anio": 2019,
+      "Tipo": "SUV"
+    },
+    "CostoTotal": 349.5
+  },
+  "FechaEntrega": {
+    "$date": "2023-09-24T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 22000,
+  "CombustibleEntregado": 51.25
+},
+{
+  "_id": {
+    "$oid": "65076b0aedc519034cd40c06"
+  },
+  "IdRegistro": 8,
+  "Empleado": {
+    "Nombre": "Diego",
+    "Apellido": "Fernández",
+    "Telefono": "+573708901234",
+    "Cargo": "Gerente"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Sofía",
+      "Apellido": "López",
+      "Telefono": "+573809012345",
+      "Email": "sofia@example.com"
+    },
+    "Automovil": {
+      "Marca": "Kia",
+      "Modelo": "Sportage",
+      "Anio": 2021,
+      "Tipo": "SUV"
+    },
+    "CostoTotal": 429.5
+  },
+  "FechaEntrega": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 23000,
+  "CombustibleEntregado": 55
+},
+{
+  "_id": {
+    "$oid": "65076b0aedc519034cd40c07"
+  },
+  "IdRegistro": 9,
+  "Empleado": {
+    "Nombre": "Sofía",
+    "Apellido": "López",
+    "Telefono": "+573809012345",
+    "Cargo": "Gerente"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Marta",
+      "Apellido": "García",
+      "Telefono": "+573909876543",
+      "Email": "marta@example.com"
+    },
+    "Automovil": {
+      "Marca": "Hyundai",
+      "Modelo": "Elantra",
+      "Anio": 2017,
+      "Tipo": "Sedán"
+    },
+    "CostoTotal": 276.25
+  },
+  "FechaEntrega": {
+    "$date": "2023-09-28T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 24000,
+  "CombustibleEntregado": 60
+},
+{
+  "_id": {
+    "$oid": "65076b1dedc519034cd40c09"
+  },
+  "IdRegistro": 10,
+  "Empleado": {
+    "Nombre": "Javier",
+    "Apellido": "Ramírez",
+    "Telefono": "+573506789012",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Andrea",
+      "Apellido": "Hernández",
+      "Telefono": "+573908765432",
+      "Email": "andrea@example.com"
+    },
+    "Automovil": {
+      "Marca": "Ford",
+      "Modelo": "Focus",
+      "Anio": 2020,
+      "Tipo": "Compacto"
+    },
+    "CostoTotal": 299.5
+  },
+  "FechaEntrega": {
+    "$date": "2023-09-30T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 25000,
+  "CombustibleEntregado": 63
+},
+{
+  "_id": {
+    "$oid": "65076b1dedc519034cd40c0a"
+  },
+  "IdRegistro": 11,
+  "Empleado": {
+    "Nombre": "Lorena",
+    "Apellido": "Díaz",
+    "Telefono": "+573607654321",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Manuel",
+      "Apellido": "Pérez",
+      "Telefono": "+573506543210",
+      "Email": "manuel@example.com"
+    },
+    "Automovil": {
+      "Marca": "Chevrolet",
+      "Modelo": "Cruze",
+      "Anio": 2019,
+      "Tipo": "Sedán"
+    },
+    "CostoTotal": 335
+  },
+  "FechaEntrega": {
+    "$date": "2023-10-02T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 26000,
+  "CombustibleEntregado": 66.5
+},
+{
+  "_id": {
+    "$oid": "65076b1dedc519034cd40c0b"
+  },
+  "IdRegistro": 12,
+  "Empleado": {
+    "Nombre": "Manuel",
+    "Apellido": "Pérez",
+    "Telefono": "+573506543210",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Renata",
+      "Apellido": "López",
+      "Telefono": "+573405432105",
+      "Email": "renata@example.com"
+    },
+    "Automovil": {
+      "Marca": "Toyota",
+      "Modelo": "RAV4",
+      "Anio": 2022,
+      "Tipo": "SUV"
+    },
+    "CostoTotal": 425.75
+  },
+  "FechaEntrega": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 27000,
+  "CombustibleEntregado": 68
+},
+{
+  "_id": {
+    "$oid": "65076b1dedc519034cd40c0c"
+  },
+  "IdRegistro": 13,
+  "Empleado": {
+    "Nombre": "Renata",
+    "Apellido": "López",
+    "Telefono": "+573405432105",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Gabriel",
+      "Apellido": "Gómez",
+      "Telefono": "+573304321054",
+      "Email": "gabriel@example.com"
+    },
+    "Automovil": {
+      "Marca": "Honda",
+      "Modelo": "CR-V",
+      "Anio": 2021,
+      "Tipo": "SUV"
+    },
+    "CostoTotal": 389.25
+  },
+  "FechaEntrega": {
+    "$date": "2023-10-06T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 28000,
+  "CombustibleEntregado": 70.5
+},
+{
+  "_id": {
+    "$oid": "65076b1dedc519034cd40c0d"
+  },
+  "IdRegistro": 14,
+  "Empleado": {
+    "Nombre": "Gabriel",
+    "Apellido": "Gómez",
+    "Telefono": "+573304321054",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Santiago",
+      "Apellido": "Rodríguez",
+      "Telefono": "+573203210543",
+      "Email": "santiago@example.com"
+    },
+    "Automovil": {
+      "Marca": "Nissan",
+      "Modelo": "Rogue",
+      "Anio": 2020,
+      "Tipo": "SUV"
+    },
+    "CostoTotal": 405
+  },
+  "FechaEntrega": {
+    "$date": "2023-10-08T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 29000,
+  "CombustibleEntregado": 72.5
+},
+{
+  "_id": {
+    "$oid": "65076b1dedc519034cd40c0e"
+  },
+  "IdRegistro": 15,
+  "Empleado": {
+    "Nombre": "Santiago",
+    "Apellido": "Rodríguez",
+    "Telefono": "+573203210543",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Valentina",
+      "Apellido": "Hernández",
+      "Telefono": "+573102105432",
+      "Email": "valentina@example.com"
+    },
+    "Automovil": {
+      "Marca": "Hyundai",
+      "Modelo": "Tucson",
+      "Anio": 2018,
+      "Tipo": "SUV"
+    },
+    "CostoTotal": 345.75
+  },
+  "FechaEntrega": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 30000,
+  "CombustibleEntregado": 75
+},
+{
+  "_id": {
+    "$oid": "65076b1dedc519034cd40c0f"
+  },
+  "IdRegistro": 16,
+  "Empleado": {
+    "Nombre": "Valentina",
+    "Apellido": "Hernández",
+    "Telefono": "+573102105432",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Joaquín",
+      "Apellido": "Gutiérrez",
+      "Telefono": "+573001054321",
+      "Email": "joaquin@example.com"
+    },
+    "Automovil": {
+      "Marca": "Kia",
+      "Modelo": "Seltos",
+      "Anio": 2022,
+      "Tipo": "SUV"
+    },
+    "CostoTotal": 459
+  },
+  "FechaEntrega": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 31000,
+  "CombustibleEntregado": 77.5
+},
+{
+  "_id": {
+    "$oid": "65076b1dedc519034cd40c10"
+  },
+  "IdRegistro": 17,
+  "Empleado": {
+    "Nombre": "Joaquín",
+    "Apellido": "Gutiérrez",
+    "Telefono": "+573001054321",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Natalia",
+      "Apellido": "Martínez",
+      "Telefono": "+572900105432",
+      "Email": "natalia@example.com"
+    },
+    "Automovil": {
+      "Marca": "Toyota",
+      "Modelo": "Camry",
+      "Anio": 2021,
+      "Tipo": "Sedán"
+    },
+    "CostoTotal": 349.5
+  },
+  "FechaEntrega": {
+    "$date": "2023-10-14T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 32000,
+  "CombustibleEntregado": 80
+},
+{
+  "_id": {
+    "$oid": "65076b1dedc519034cd40c11"
+  },
+  "IdRegistro": 18,
+  "Empleado": {
+    "Nombre": "Natalia",
+    "Apellido": "Martínez",
+    "Telefono": "+572900105432",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Mariano",
+      "Apellido": "Torres",
+      "Telefono": "+572800054321",
+      "Email": "mariano@example.com"
+    },
+    "Automovil": {
+      "Marca": "Mazda",
+      "Modelo": "CX-30",
+      "Anio": 2022,
+      "Tipo": "SUV"
+    },
+    "CostoTotal": 405
+  },
+  "FechaEntrega": {
+    "$date": "2023-10-16T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 33000,
+  "CombustibleEntregado": 82.5
+},
+{
+  "_id": {
+    "$oid": "65076b1dedc519034cd40c12"
+  },
+  "IdRegistro": 19,
+  "Empleado": {
+    "Nombre": "Mariano",
+    "Apellido": "Torres",
+    "Telefono": "+572800054321",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Laura",
+      "Apellido": "García",
+      "Telefono": "+572700005432",
+      "Email": "laura@example.com"
+    },
+    "Automovil": {
+      "Marca": "Volkswagen",
+      "Modelo": "Jetta",
+      "Anio": 2021,
+      "Tipo": "Sedán"
+    },
+    "CostoTotal": 315
+  },
+  "FechaEntrega": {
+    "$date": "2023-10-18T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 34000,
+  "CombustibleEntregado": 85
+},
+{
+  "_id": {
+    "$oid": "65076b1dedc519034cd40c13"
+  },
+  "IdRegistro": 20,
+  "Empleado": {
+    "Nombre": "Laura",
+    "Apellido": "García",
+    "Telefono": "+572700005432",
+    "Cargo": "Vendedor"
+  },
+  "Alquiler": {
+    "Cliente": {
+      "Nombre": "Martín",
+      "Apellido": "López",
+      "Telefono": "+572600000543",
+      "Email": "martin@example.com"
+    },
+    "Automovil": {
+      "Marca": "Ford",
+      "Modelo": "Escape",
+      "Anio": 2022,
+      "Tipo": "SUV"
+    },
+    "CostoTotal": 429.5
+  },
+  "FechaEntrega": {
+    "$date": "2023-10-20T00:00:00.000Z"
+  },
+  "KilometrajeEntregado": 35000,
+  "CombustibleEntregado": 87.5
+}]

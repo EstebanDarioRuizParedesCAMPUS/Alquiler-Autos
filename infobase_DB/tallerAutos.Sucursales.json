@@ -1,0 +1,47 @@
+[
+  {
+    "_id": {
+      "$oid": "65073239edc519034cd40b7d"
+    },
+    "id_Sucursal": 0,
+    "Nombre": "Sucursal A",
+    "Direccion": "Calle 123, Ciudad A",
+    "Telefono": "+573001234567"
+  },
+  {
+    "_id": {
+      "$oid": "65073239edc519034cd40b7e"
+    },
+    "id_Sucursal": 1,
+    "Nombre": "Sucursal B",
+    "Direccion": "Avenida 456, Ciudad B",
+    "Telefono": "+573102345678"
+  },
+  {
+    "_id": {
+      "$oid": "65073239edc519034cd40b7f"
+    },
+    "id_Sucursal": 2,
+    "Nombre": "Sucursal C",
+    "Direccion": "Carrera 789, Ciudad C",
+    "Telefono": "+573203456789"
+  },
+  {
+    "_id": {
+      "$oid": "65073239edc519034cd40b80"
+    },
+    "id_Sucursal": 3,
+    "Nombre": "Sucursal D",
+    "Direccion": "Calle 1011, Ciudad D",
+    "Telefono": "+573304567890"
+  },
+  {
+    "_id": {
+      "$oid": "65073239edc519034cd40b81"
+    },
+    "id_Sucursal": 4,
+    "Nombre": "Sucursal E",
+    "Direccion": "Avenida 1213, Ciudad E",
+    "Telefono": "+573405678901"
+  }
+]

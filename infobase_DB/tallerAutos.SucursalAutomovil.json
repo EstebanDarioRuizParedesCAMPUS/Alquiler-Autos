@@ -1,0 +1,342 @@
+[
+  {
+    "_id": {
+      "$oid": "650736ceedc519034cd40b9c"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal A",
+      "Direccion": "Calle 123, Ciudad A",
+      "Telefono": "+573001234567"
+    },
+    "Automovil": {
+      "Marca": "Chevrolet",
+      "Modelo": "Spark GT",
+      "Anio": 2015,
+      "Tipo": "Compacto"
+    },
+    "CantidadDisponible": 12
+  },
+  {
+    "_id": {
+      "$oid": "650736ceedc519034cd40b9d"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal B",
+      "Direccion": "Avenida 456, Ciudad B",
+      "Telefono": "+573102345678"
+    },
+    "Automovil": {
+      "Marca": "Ford",
+      "Modelo": "Mustang",
+      "Anio": 2020,
+      "Tipo": "Deportivo"
+    },
+    "CantidadDisponible": 7
+  },
+  {
+    "_id": {
+      "$oid": "650736ceedc519034cd40b9e"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal C",
+      "Direccion": "Carrera 789, Ciudad C",
+      "Telefono": "+573203456789"
+    },
+    "Automovil": {
+      "Marca": "Toyota",
+      "Modelo": "Camry",
+      "Anio": 2019,
+      "Tipo": "Sedán"
+    },
+    "CantidadDisponible": 14
+  },
+  {
+    "_id": {
+      "$oid": "650736ceedc519034cd40b9f"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal D",
+      "Direccion": "Calle 1011, Ciudad D",
+      "Telefono": "+573304567890"
+    },
+    "Automovil": {
+      "Marca": "Honda",
+      "Modelo": "Civic",
+      "Anio": 2021,
+      "Tipo": "Sedán"
+    },
+    "CantidadDisponible": 19
+  },
+  {
+    "_id": {
+      "$oid": "650736ceedc519034cd40ba0"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal E",
+      "Direccion": "Avenida 1213, Ciudad E",
+      "Telefono": "+573405678901"
+    },
+    "Automovil": {
+      "Marca": "Volkswagen",
+      "Modelo": "Golf",
+      "Anio": 2018,
+      "Tipo": "Compacto"
+    },
+    "CantidadDisponible": 23
+  },
+  {
+    "_id": {
+      "$oid": "650736ceedc519034cd40ba1"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal A",
+      "Direccion": "Calle 123, Ciudad A",
+      "Telefono": "+573001234567"
+    },
+    "Automovil": {
+      "Marca": "Jeep",
+      "Modelo": "Wrangler",
+      "Anio": 2022,
+      "Tipo": "SUV"
+    },
+    "CantidadDisponible": 15
+  },
+  {
+    "_id": {
+      "$oid": "650736ceedc519034cd40ba2"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal B",
+      "Direccion": "Avenida 456, Ciudad B",
+      "Telefono": "+573102345678"
+    },
+    "Automovil": {
+      "Marca": "Nissan",
+      "Modelo": "Altima",
+      "Anio": 2020,
+      "Tipo": "Sedán"
+    },
+    "CantidadDisponible": 11
+  },
+  {
+    "_id": {
+      "$oid": "650736ceedc519034cd40ba3"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal C",
+      "Direccion": "Carrera 789, Ciudad C",
+      "Telefono": "+573203456789"
+    },
+    "Automovil": {
+      "Marca": "Mazda",
+      "Modelo": "CX-5",
+      "Anio": 2019,
+      "Tipo": "SUV"
+    },
+    "CantidadDisponible": 28
+  },
+  {
+    "_id": {
+      "$oid": "650736ceedc519034cd40ba4"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal D",
+      "Direccion": "Calle 1011, Ciudad D",
+      "Telefono": "+573304567890"
+    },
+    "Automovil": {
+      "Marca": "Kia",
+      "Modelo": "Sportage",
+      "Anio": 2021,
+      "Tipo": "SUV"
+    },
+    "CantidadDisponible": 16
+  },
+  {
+    "_id": {
+      "$oid": "650736ceedc519034cd40ba5"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal E",
+      "Direccion": "Avenida 1213, Ciudad E",
+      "Telefono": "+573405678901"
+    },
+    "Automovil": {
+      "Marca": "Hyundai",
+      "Modelo": "Elantra",
+      "Anio": 2017,
+      "Tipo": "Sedán"
+    },
+    "CantidadDisponible": 9
+  },
+  {
+    "_id": {
+      "$oid": "6507370dedc519034cd40ba7"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal A",
+      "Direccion": "Calle 123, Ciudad A",
+      "Telefono": "+573001234567"
+    },
+    "Automovil": {
+      "Marca": "Volkswagen",
+      "Modelo": "Golf",
+      "Anio": 2018,
+      "Tipo": "Compacto"
+    },
+    "CantidadDisponible": 13
+  },
+  {
+    "_id": {
+      "$oid": "6507370dedc519034cd40ba8"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal B",
+      "Direccion": "Avenida 456, Ciudad B",
+      "Telefono": "+573102345678"
+    },
+    "Automovil": {
+      "Marca": "Jeep",
+      "Modelo": "Wrangler",
+      "Anio": 2022,
+      "Tipo": "SUV"
+    },
+    "CantidadDisponible": 20
+  },
+  {
+    "_id": {
+      "$oid": "6507370dedc519034cd40ba9"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal C",
+      "Direccion": "Carrera 789, Ciudad C",
+      "Telefono": "+573203456789"
+    },
+    "Automovil": {
+      "Marca": "Nissan",
+      "Modelo": "Altima",
+      "Anio": 2020,
+      "Tipo": "Sedán"
+    },
+    "CantidadDisponible": 14
+  },
+  {
+    "_id": {
+      "$oid": "6507370dedc519034cd40baa"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal D",
+      "Direccion": "Calle 1011, Ciudad D",
+      "Telefono": "+573304567890"
+    },
+    "Automovil": {
+      "Marca": "Mazda",
+      "Modelo": "CX-5",
+      "Anio": 2019,
+      "Tipo": "SUV"
+    },
+    "CantidadDisponible": 25
+  },
+  {
+    "_id": {
+      "$oid": "6507370dedc519034cd40bab"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal E",
+      "Direccion": "Avenida 1213, Ciudad E",
+      "Telefono": "+573405678901"
+    },
+    "Automovil": {
+      "Marca": "Kia",
+      "Modelo": "Sportage",
+      "Anio": 2021,
+      "Tipo": "SUV"
+    },
+    "CantidadDisponible": 18
+  },
+  {
+    "_id": {
+      "$oid": "6507370dedc519034cd40bac"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal A",
+      "Direccion": "Calle 123, Ciudad A",
+      "Telefono": "+573001234567"
+    },
+    "Automovil": {
+      "Marca": "Hyundai",
+      "Modelo": "Elantra",
+      "Anio": 2017,
+      "Tipo": "Sedán"
+    },
+    "CantidadDisponible": 8
+  },
+  {
+    "_id": {
+      "$oid": "6507370dedc519034cd40bad"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal B",
+      "Direccion": "Avenida 456, Ciudad B",
+      "Telefono": "+573102345678"
+    },
+    "Automovil": {
+      "Marca": "Chevrolet",
+      "Modelo": "Spark GT",
+      "Anio": 2015,
+      "Tipo": "Compacto"
+    },
+    "CantidadDisponible": 11
+  },
+  {
+    "_id": {
+      "$oid": "6507370dedc519034cd40bae"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal C",
+      "Direccion": "Carrera 789, Ciudad C",
+      "Telefono": "+573203456789"
+    },
+    "Automovil": {
+      "Marca": "Ford",
+      "Modelo": "Mustang",
+      "Anio": 2020,
+      "Tipo": "Deportivo"
+    },
+    "CantidadDisponible": 22
+  },
+  {
+    "_id": {
+      "$oid": "6507370dedc519034cd40baf"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal D",
+      "Direccion": "Calle 1011, Ciudad D",
+      "Telefono": "+573304567890"
+    },
+    "Automovil": {
+      "Marca": "Toyota",
+      "Modelo": "Camry",
+      "Anio": 2019,
+      "Tipo": "Sedán"
+    },
+    "CantidadDisponible": 17
+  },
+  {
+    "_id": {
+      "$oid": "6507370dedc519034cd40bb0"
+    },
+    "Sucursal": {
+      "Nombre": "Sucursal E",
+      "Direccion": "Avenida 1213, Ciudad E",
+      "Telefono": "+573405678901"
+    },
+    "Automovil": {
+      "Marca": "Honda",
+      "Modelo": "Civic",
+      "Anio": 2021,
+      "Tipo": "Sedán"
+    },
+    "CantidadDisponible": 21
+  }
+]
