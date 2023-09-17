@@ -1,14 +1,12 @@
 import  express from 'express'
 import dotenv from 'dotenv'
+import router from './router/endpoints.router.js'
 
 dotenv.config()
 
 const port = process.env.PORT
 const app = express()
 app.use(express.json())
-const router = ()=>{
-    console.log('conectado corectamente');
-}
 
 app.use('/API', router)
 
