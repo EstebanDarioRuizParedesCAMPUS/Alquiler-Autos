@@ -1,8 +1,8 @@
 # Ejercicio y sus endpoints
 
 > [!NOTE]
-> Falta agregar las validaciones por medio de JWT
->Todas la base de datos básica e inicial está en la carpeta ``infobase_DB``, aunque para comprobar que los endpoints funcionaran se modificaron algunos datos de la db (Igual deeben seguir funcionanado)
+> Falta agregar las validaciones por medio de JWT.
+>Todas la bases de datos básica e inicial está en la carpeta ``infobase_DB``, aunque para comprobar que los endpoints funcionaran se modificaron algunos datos de la db (Igual deeben seguir funcionanado)
 
 _Todo se empieza a ejecutar con el comando ```npm start```_
 
@@ -104,3 +104,4 @@ http://localhost:9000/API/ejercicio20/?id=65073b45edc519034cd40bb8
 
 _La fecha es solo un ejemplo, puede ser cualquier otra, los fechas a utilizar estan en la carppeta `infobase_DB` especificamente en el archivo `tallerAutos.Alquileres.json`, de lo contrario no arojará resultados_
 
+http://localhost:9000/API/ejercicio21/?ini=2023-07-05&fini=2023-07-10
