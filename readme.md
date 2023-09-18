@@ -21,7 +21,7 @@ http://localhost:9000/API/ejercicio5
 **6. Obtener los detalles del alquiler con el ID_Alquiler específico.**
 
 _El id es solo un ejemplo, puede ser cualquier otro, los ids a utilizar estan en la carppeta `infobase_DB` especificamente en el archivo `tallerAutos.Alquiler.json`_
-http://localhost:9000/API/ejercicio6/?id=__6507549cedc519034cd40bd2__
+http://localhost:9000/API/ejercicio6/?id=_6507549cedc519034cd40bd2_
 
 **7. Listar los empleados con el cargo de "Vendedor"**
 
@@ -34,7 +34,7 @@ http://localhost:9000/API/ejercicio8
 **9. Obtener el costo total de un al quiler específico.**
 
 _El id es solo un ejemplo, puede ser cualquier otro, los ids a utilizar estan en la carppeta `infobase_DB` especificamente en el archivo `tallerAutos.Alquiler.json`_
-http://localhost:9000/API/ejercicio9/?id=__6507549cedc519034cd40bd2__
+http://localhost:9000/API/ejercicio9/?id=_6507549cedc519034cd40bd2_
 
 **10.Listar losclientes conelDNIespecífico.**
 
